@@ -1,1 +1,1 @@
-when I feel like writing the same type of functions every time
+when you're tired of writing one typical function
